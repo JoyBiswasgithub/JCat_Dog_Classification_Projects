@@ -1,1 +1,1 @@
-# JCat_Dog_Classification_Projects
+# JCat_Dog_Classification_Project
