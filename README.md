@@ -15,7 +15,7 @@ This project involves:
 
 ## Model Architecture
 We built a Convolutional Neural Network (CNN) with the following architecture:
-- **Input Layer**: 128x128 RGB image
+- **Input Layer**: RGB image
 - **Convolutional Layers**:  layers with ReLU activation and max-pooling
 - **Flattening Layer**
 - **Fully Connected Layers**:  dense layers with ReLU activation
